@@ -3,6 +3,7 @@ import time
 
 i=1
 a = 0
+#while for the infinite loop for mouse to run
 while i:
     try:
         pyautogui.moveTo(200, 100)
