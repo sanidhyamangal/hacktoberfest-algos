@@ -1,0 +1,9 @@
+.idea/
+**/.vscode
+/.idea
+.idea/helloverify.iml
+**/*.log
+**/*.pyc
+**/*.log.*
+**/*.conf
+/media
